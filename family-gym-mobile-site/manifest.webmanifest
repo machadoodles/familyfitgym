@@ -1,0 +1,17 @@
+{
+  "name": "FamilyFit Gym",
+  "short_name": "FamilyFit",
+  "description": "Sitio móvil de próxima apertura para FamilyFit Gym.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f7f3",
+  "theme_color": "#101410",
+  "icons": [
+    {
+      "src": "./assets/familyfit-icon.jpeg",
+      "sizes": "755x755",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
